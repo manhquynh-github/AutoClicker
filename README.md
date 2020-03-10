@@ -1,5 +1,5 @@
 # AutoClicker
-Performs rapid mouse clicking on command.
+Performs rapid mouse clicking on command, written in VB.NET.
 
 ## Usage
 Check on "Activate" then anywhere on the screen,
