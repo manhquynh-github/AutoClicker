@@ -8,10 +8,10 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("autoclicker")> 
-<Assembly: AssemblyDescription("")> 
-<Assembly: AssemblyCompany("")> 
-<Assembly: AssemblyProduct("autoclicker")> 
+<Assembly: AssemblyTitle("autoclicker")>
+<Assembly: AssemblyDescription("https://github.com/manhquynh-github")>
+<Assembly: AssemblyCompany("")>
+<Assembly: AssemblyProduct("AutoClicker")>
 <Assembly: AssemblyCopyright("Copyright ©  2011")> 
 <Assembly: AssemblyTrademark("")> 
 
